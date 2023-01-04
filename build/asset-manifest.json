@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bafbcc04.js",
+    "static/js/787.c559938e.chunk.js": "/static/js/787.c559938e.chunk.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/github-logo.svg": "/static/media/github-logo.9fcacef27fcd0a77244f5ea7919ac450.svg",
+    "index.html": "/index.html",
+    "main.bafbcc04.js.map": "/static/js/main.bafbcc04.js.map",
+    "787.c559938e.chunk.js.map": "/static/js/787.c559938e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bafbcc04.js"
+  ]
+}
