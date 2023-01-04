@@ -9,6 +9,7 @@ export const Container = styled.div`
   text-align: center;
   min-height: 100vh;
   padding: 0 2rem;
+  overflow-y: auto;
 `;
 
 export const Logo = styled.img`

@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.js": "/static/js/main.bafbcc04.js",
-    "static/js/787.c559938e.chunk.js": "/static/js/787.c559938e.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/github-logo.svg": "/static/media/github-logo.9fcacef27fcd0a77244f5ea7919ac450.svg",
+    "main.js": "/static/js/main.2504fd15.chunk.js",
+    "main.js.map": "/static/js/main.2504fd15.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31057449.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31057449.js.map",
+    "static/js/2.fa5f08e9.chunk.js": "/static/js/2.fa5f08e9.chunk.js",
+    "static/js/2.fa5f08e9.chunk.js.map": "/static/js/2.fa5f08e9.chunk.js.map",
+    "static/js/3.a95fc4b0.chunk.js": "/static/js/3.a95fc4b0.chunk.js",
+    "static/js/3.a95fc4b0.chunk.js.map": "/static/js/3.a95fc4b0.chunk.js.map",
     "index.html": "/index.html",
-    "main.bafbcc04.js.map": "/static/js/main.bafbcc04.js.map",
-    "787.c559938e.chunk.js.map": "/static/js/787.c559938e.chunk.js.map"
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/js/2.fa5f08e9.chunk.js.LICENSE.txt": "/static/js/2.fa5f08e9.chunk.js.LICENSE.txt",
+    "static/media/github-logo.9fcacef2.svg": "/static/media/github-logo.9fcacef2.svg"
   },
   "entrypoints": [
-    "static/js/main.bafbcc04.js"
+    "static/js/runtime-main.31057449.js",
+    "static/js/2.fa5f08e9.chunk.js",
+    "static/js/main.2504fd15.chunk.js"
   ]
 }
